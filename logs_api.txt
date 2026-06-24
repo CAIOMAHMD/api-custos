@@ -1,0 +1,9 @@
+INFO:     Will watch for changes in these directories: ['/Users/caiomh/repo/api-custos']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [55640] using StatReload
+INFO:     Started server process [55648]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/msal/oauth2cli/oauth2.py:453: UserWarning: response_mode='form_post' is recommended for better security. See https://www.rfc-editor.org/rfc/rfc9700.html#section-4.3.1
+  warnings.warn(
+INFO:     127.0.0.1:64638 - "GET /custos HTTP/1.1" 200 OK
